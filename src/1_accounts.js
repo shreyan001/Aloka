@@ -22,12 +22,12 @@ main()
 
 
 
-echo "# Aloka" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add push1 https://github.com/shreyan001/Aloka.git
-git push -u push1 main
+// echo "# Aloka" >> README.md
+// git init
+// git add README.md
+// git commit -m "first commit"
+// git branch -M main
+// git remote add push1 https://github.com/shreyan001/Aloka.git
+// git push -u push1 main
 
 export default linkAccount ;
