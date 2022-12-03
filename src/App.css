@@ -38,6 +38,10 @@
 }
 
 button {
-  text-align: center;
-  background-color: #61dafb;
+  font-size: 36px;
+  padding: 16px;
+  border-radius: 16px;
+  background-color: red;
+  color: white;
+  font-weight: bold;
 }
